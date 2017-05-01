@@ -1,11 +1,4 @@
-## Welcome to the portfolio of Natasha Ivanovic 
 
-Natasha Ivanovic is a writer currently living in Belgrade, Serbia. She grew up in Vancouver, Canada, 
-where she completed her Bachelor's degree in Criminology and Political Science. 
-She decided to move to Belgrade, Serbia upon graduating, where she focused on developing her writing. 
-Since then, she has continued to work as a freelance writer while also attending her Master's degree 
-in Forensic Psychology. 
-Today, Natasha Ivanovic is trying her hand at Screen writing and hopes to complete a feature film.
 
 You can use the [editor on GitHub](https://github.com/nativan/Natasha-Ivanovic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
